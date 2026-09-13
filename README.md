@@ -1,6 +1,6 @@
 # 🩸 Multi-Tissue Hematopoietic Stem and Progenitor Cell (HSPC) Atlas
 
-> **Deciphering the principles of HSPC differentiation, migration, and tissue-specific recruitment at single-cell resolution.**
+> **Deciphering the Cross-Tissue Migration Landscape of Hematopoietic Stem and Progenitor Cells at Single-Cell Resolution**
 
 ## 📖 Abstract
 
