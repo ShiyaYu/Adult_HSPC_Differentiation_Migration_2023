@@ -1,10 +1,12 @@
 cff-version: 1.2.0
-message: "If you use these codes, please cite it as below."
+message: "If you use this software, please cite it as below."
+title: "Adult HSPC Differentiation Migration 2023"
+version: "1.1.0"
+date-released: "2026-11-16"
+url: "https://github.com/ShiyaYu/Adult_HSPC_Differentiation_Migration_2023"
 authors:
   - family-names: "Yu"
     given-names: "Shiya"
-title: 'ShiyaYu/Adult_HSPC_Differentiation_Migration_2023: Codes for "Deciphering the Cross-Tissue Migration Landscape of Hematopoietic Stem and Progenitor Cells at Single-Cell Resolution"'
-version: 1.1.0
-doi: 10.5281/zenodo.24283774
-date-released: 2026-11-16
-url: "https://github.com/ShiyaYu/Adult_HSPC_Differentiation_Migration_2023"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24283774"
