@@ -1,0 +1,8 @@
+cff-version: 1.1.0
+message: "If you use these codes, please cite it as below."
+authors:
+- family-names: Shiya
+  given-names: Yu
+title:ShiyaYu/Adult_HSPC_Differentiation_Migration_2023: Codes for  "Deciphering the Cross-Tissue Migration Landscape of Hematopoietic Stem and Progenitor Cells at Single-Cell Resolution"
+version: R
+date-released: 2026-11-16
